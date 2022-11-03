@@ -1,6 +1,14 @@
 import React from "react";
 
-// import { Article, Brand, Cta, Feature, Navbar } from "./components";
+import { Brand, Cta, Navbar } from "./components";
+import {
+  Blog,
+  Features,
+  Footer,
+  Header,
+  Possiblity,
+  WhatGPT,
+} from "./containers";
 
 const App = () => {
   return <div>App</div>;
