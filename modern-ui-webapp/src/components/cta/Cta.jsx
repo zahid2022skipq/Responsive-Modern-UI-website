@@ -4,4 +4,4 @@ const Cta = () => {
   return <div>C</div>;
 };
 
-export default C;
+export default Cta;

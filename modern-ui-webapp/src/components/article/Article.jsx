@@ -4,4 +4,4 @@ const Article = () => {
   return <div>article</div>;
 };
 
-export default article;
+export default Article;

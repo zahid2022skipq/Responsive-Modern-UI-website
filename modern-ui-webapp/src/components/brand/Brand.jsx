@@ -4,4 +4,4 @@ const Brand = () => {
   return <div>brand</div>;
 };
 
-export default brand;
+export default Brand;
