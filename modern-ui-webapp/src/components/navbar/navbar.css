@@ -45,3 +45,20 @@ align-items: center;
     text-transform: capitalize;
     margin: 0 1rem;
 }
+
+.gpt3__navbar-sign button,
+.gpt3__navbar-menu_container button {
+    padding: 0.5rem 1rem;
+    background: #FF4820;
+    color: #fff;
+    width: 152px;
+    height: 58px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
