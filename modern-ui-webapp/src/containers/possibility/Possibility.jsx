@@ -4,10 +4,10 @@ import PossibllityImage from "../../assets/assets/possibility.png";
 const Possibility = () => {
   return (
     <div className="gpt3__possibility section__padding" id="possibility">
-      <div className="gpt4__possiblity-image">
+      <div className="gpt3__possiblity-image">
         <img src={PossibllityImage} alt="Possibility" />
       </div>
-      <div className="gpt3__possiblity-content">
+      <div className="gpt3__possibility-content">
         <h4>Request Early Access to Get Started</h4>
         <h1 className="gradient__text">
           The possibilities are beyond your imagination
