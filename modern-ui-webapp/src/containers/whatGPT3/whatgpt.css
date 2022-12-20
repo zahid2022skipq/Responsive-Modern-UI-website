@@ -117,4 +117,10 @@ cursor: pointer;
         margin: 1rem 0;
         min-width: 100%;
     }
+
+    .gpt3__whatgpt3-heading h1 {
+        font-size: 20px;
+        line-height: 24px;
+       
+    }
 }
