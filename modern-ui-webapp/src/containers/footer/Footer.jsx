@@ -41,6 +41,9 @@ const Footer = () => {
           <p>info@payme.net</p>
         </div>
       </div>
+      <div className="gpt3__footer-copyright">
+        <p>© 2022-23 GPT-3-Web by Zahid Ali. All rights reserved.</p>
+      </div>
     </div>
   );
 };
