@@ -131,4 +131,13 @@ color: #FFFFFF;
         font-size: 34px;
         line-height: 42px;
     }
+
+    .gpt3__footer-links div{
+        margin: 1rem 0;
+    }
+
+    .gpt3__footer-btn p{
+        font-size: 14px;
+        line-height: 20px;
+    }
 }
