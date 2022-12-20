@@ -1,8 +1,9 @@
 .gpt3__footer{
-    border: 1px solid white;
     color: white;
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+    background: var(--color-footer);
 }
